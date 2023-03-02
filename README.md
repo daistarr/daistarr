@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, welcome! 👋
+
+I'm Dai, and I love transforming convoluted datasets into useful information! Long story short, I'm an Earth scientist focusing on climate,  with more than ten years of experience dealing with complex datasets. My favorite toolbox includes Python, R, and MATLAB. I have been galavanting around the world, following my science dreams until I found a home in Boston, MA. Now, I want to transfer the skills I acquired in academia to the exciting new world of industry!
+
+
 
 <!--
 **daistarr/daistarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
