@@ -5,16 +5,16 @@ _Texas A&M University Alumni_
 
 <br>
 <a href="mailto:daiannestarr@gmail.com">
-<img src="https://github.com/edent/SuperTinyIcons/blob/df4f6767394eb2cbfa11330bcd0ddecac9a0d42b/images/svg/gmail.svg" width="3%" height="3%"></a>&nbsp;
+<img src="https://github.com/edent/SuperTinyIcons/blob/df4f6767394eb2cbfa11330bcd0ddecac9a0d42b/images/svg/gmail.svg" width="4%" height="44%"></a>&nbsp;
 
 <a href="http://www.linkedin.com/in/dfstarr"> 
-<img src="https://github.com/edent/SuperTinyIcons/blob/df4f6767394eb2cbfa11330bcd0ddecac9a0d42b/images/svg/linkedin.svg" width="3%" height="3%"></a>&nbsp;
+<img src="https://github.com/edent/SuperTinyIcons/blob/df4f6767394eb2cbfa11330bcd0ddecac9a0d42b/images/svg/linkedin.svg" width="4%" height="4%"></a>&nbsp;
 
 <a href="http://www.github.com/daistarr"> 
-<img src="https://github.com/edent/SuperTinyIcons/blob/df4f6767394eb2cbfa11330bcd0ddecac9a0d42b/images/svg/github.svg" width="3%" height="3%"></a>&nbsp;
+<img src="https://github.com/edent/SuperTinyIcons/blob/df4f6767394eb2cbfa11330bcd0ddecac9a0d42b/images/svg/github.svg" width="4%" height="4%"></a>&nbsp;
 
 <a href="http://www.twitter.com/daistarr"> 
-<img src="https://github.com/edent/SuperTinyIcons/blob/df4f6767394eb2cbfa11330bcd0ddecac9a0d42b/images/svg/twitter.svg" width="3%" height="3%"></a>
+<img src="https://github.com/edent/SuperTinyIcons/blob/df4f6767394eb2cbfa11330bcd0ddecac9a0d42b/images/svg/twitter.svg" width="4%" height="4%"></a>
 
 <br>
 &nbsp;
@@ -30,18 +30,17 @@ Welcome here! I love transforming convoluted datasets into useful information! L
 
 **R Packages :heart:**
 
-<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/ggplot2.svg" width="10%" height="10%">&nbsp;
-<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/tidyverse.svg" width="10%" height="10%">&nbsp;
-<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/shiny.svg" width="10%" height="10%">&nbsp;
-<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/stringr.svg" width="10%" height="10%">&nbsp;
-<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/shiny.svg" width="10%" height="10%">&nbsp;
-<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/rmarkdown.svg" width="10%" height="10%">&nbsp;
-<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/reprex.svg" width="10%" height="10%">&nbsp;
-<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/lubridate.svg" width="10%" height="10%">&nbsp;
-<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/pipe.svg" width="10%" height="10%">&nbsp;
-<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/purrr.svg" width="10%" height="10%">&nbsp;
-<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/forcats.svg" width="10%" height="10%">&nbsp;
-<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/RStudio.svg" width="10%" height="10%">&nbsp;
+<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/ggplot2.svg" width="8%" height="8%">&nbsp;
+<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/tidyverse.svg" width="8%" height="8%">&nbsp;
+<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/shiny.svg" width="8%" height="8%">&nbsp;
+<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/stringr.svg" width="8%" height="8%">&nbsp;
+<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/rmarkdown.svg" width="8%" height="8%">&nbsp;
+<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/reprex.svg" width="8%" height="8%">&nbsp;
+<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/lubridate.svg" width="8%" height="8%">&nbsp;
+<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/pipe.svg" width="8%" height="8%">&nbsp;
+<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/purrr.svg" width="8%" height="8%">&nbsp;
+<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/forcats.svg" width="8%" height="8%">&nbsp;
+<img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/RStudio.svg" width="8%" height="8%">&nbsp;
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
