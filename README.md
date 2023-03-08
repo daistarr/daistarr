@@ -13,7 +13,7 @@ _Texas A&M University Alumni_
 <a href="http://www.github.com/daistarr"> 
 <img src="https://github.com/edent/SuperTinyIcons/blob/df4f6767394eb2cbfa11330bcd0ddecac9a0d42b/images/svg/github.svg" width="4%" height="4%"></a>&nbsp;
 
-<a href="http://www.twitter.com/daistarr"> 
+<a href="https://twitter.com/DaianneStarr"> 
 <img src="https://github.com/edent/SuperTinyIcons/blob/df4f6767394eb2cbfa11330bcd0ddecac9a0d42b/images/svg/twitter.svg" width="4%" height="4%"></a>
 
 <br>
