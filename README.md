@@ -40,6 +40,8 @@ Welcome here! I love transforming convoluted datasets into useful information! L
 <img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/pipe.svg" width="8%" height="8%">&nbsp;
 <img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/purrr.svg" width="8%" height="8%">&nbsp;
 <img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/forcats.svg" width="8%" height="8%">&nbsp;
+<img src="https://github.com/moderndive/moderndive/blob/90ab0ddc8ba2a777cbc0809174558184c6b62b9b/images/hex_blue_text.png" width="8%" height="8%">&nbsp;
+<img src="https://github.com/thomasp85/gganimate/blob/7cd46dc2bc8cf18c1c81f6ef7fc4d00a1d57a385/man/figures/logo.png" width="8%" height="8%">&nbsp;
 <img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/RStudio.svg" width="8%" height="8%">&nbsp;
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
