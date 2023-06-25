@@ -1,6 +1,6 @@
 # Hi there, I'm Dai! 👋
  
-_Graduate Student at Harvard University_<br>
+_Harvard University_Alumni<br>
 _Texas A&M University Alumni_
 
 <br>
