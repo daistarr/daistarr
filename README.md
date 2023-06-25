@@ -1,7 +1,7 @@
 # Hi there, I'm Dai! 👋
  
-_Harvard University Alumni_<br>
-_Texas A&M University Alumni_
+_Harvard University Alum_<br>
+_Texas A&M University Alum_
 
 <br>
 <a href="mailto:daiannestarr@gmail.com">
