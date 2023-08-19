@@ -19,8 +19,7 @@ _Texas A&M University Alum_
 <br>
 &nbsp;
 
-Welcome here! I love transforming convoluted datasets into useful information! Long story short, I'm an Earth scientist focusing on climate,  with more than ten years of experience dealing with complex datasets. My favorite toolbox includes **Python**, **R**, and **MATLAB**. I have been galavanting around the world, following my science dreams until I found a home in Boston, MA. Now, I want to transfer the skills I acquired in academia to the exciting new world of industry!
-
+Welcome here! I love transforming convoluted datasets into useful information! Long story short, I'm an Earth scientist focusing on climate,  with more than ten years of experience dealing with complex datasets. My favorite toolbox includes **Python**, **R**, and **MATLAB**. I have been galavanting around the world, following my science dreams until I found a home in Boston, MA. Now, I'm using data analitics to help organizations to achieve carbon neutrality goals. I employ statistical and econometric models to quantify climate impacts and forecast potential for clean energy interventions. 
 
 **Languages and Tools**
 
