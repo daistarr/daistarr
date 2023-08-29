@@ -44,7 +44,8 @@ Welcome here! I love transforming convoluted datasets into useful information! L
 <img src="https://github.com/anouel/hex-stickers/blob/3bac33ce732bfd29df551d4fdc8452f4db42acf6/SVG/RStudio.svg" width="8%" height="8%">&nbsp;
 <img src="https://github.com/plotly/plotly.R/blob/9ee548023bba6d68dd953f46485b2e611026766b/man/figures/plotly.png" width="23%" height="23%">
 
-![Visitor Count](https://profile-counter.glitch.me/{daistarr}/count.svg)
+![GitHub Views](https://komarev.com/ghpvc/?username=<daistarr>)
+
 
 <!--
 **daistarr/daistarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
