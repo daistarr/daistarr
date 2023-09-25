@@ -1,4 +1,4 @@
-# Hi there, I'm Dai! 👋
+# Hi there, I'm Daianne! 👋
 
 _Harvard University Alum_<br>
 _Texas A&M University Alum_
